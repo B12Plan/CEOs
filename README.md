@@ -1,6 +1,5 @@
 # CEOs
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
+f1_24
 # dependencies
 /node_modules
 /.pnp

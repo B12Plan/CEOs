@@ -1,4 +1,4 @@
-# CEOs..
+# CEOs.
 f1_24
 # dependencies
 /node_modules
